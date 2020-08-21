@@ -540,7 +540,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:137px;
+  width:48px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -557,9 +557,9 @@
 #u16 {
   border-width:0px;
   position:absolute;
-  left:121px;
+  left:165px;
   top:627px;
-  width:137px;
+  width:48px;
   height:21px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
